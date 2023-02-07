@@ -1,10 +1,13 @@
-@import '../variables';
+@import "../variables";
 
 .sort {
   position: relative;
   &__label {
     display: flex;
+    padding: 12px 16px;
     align-items: center;
+
+    border: 1px solid #D5D5D5;
 
     svg {
       margin-right: 8px;
@@ -15,7 +18,7 @@
     }
 
     span {
-      color: $orange;
+      
       border-bottom: 1px dashed $orange;
       cursor: pointer;
     }

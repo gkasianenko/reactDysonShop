@@ -1,8 +1,20 @@
 $black: #232323;
-$background: #ffdf8c;
+$background: #212121;
 $gray-line: #f6f6f6;
 $orange: #fe5f1e;
+
+$globalText: #b7b7b7;
 
 $container-width: 90%;
 
 $duration: 0.15s;
+
+:export {
+  black: $black;
+  background: $background;
+  gray-line: $gray-line;
+  orange: $orange;
+  globalText: $globalText;
+  container-width: $container-width;
+  duration: $duration;
+}
