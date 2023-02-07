@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/reactDysonShop/static/css/main.353267c6.css",
-    "main.js": "/reactDysonShop/static/js/main.bfde0c3b.js",
+    "main.css": "/reactDysonShop/static/css/main.40b58000.css",
+    "main.js": "/reactDysonShop/static/js/main.3019792a.js",
     "index.html": "/reactDysonShop/index.html",
-    "main.353267c6.css.map": "/reactDysonShop/static/css/main.353267c6.css.map",
-    "main.bfde0c3b.js.map": "/reactDysonShop/static/js/main.bfde0c3b.js.map"
+    "main.40b58000.css.map": "/reactDysonShop/static/css/main.40b58000.css.map",
+    "main.3019792a.js.map": "/reactDysonShop/static/js/main.3019792a.js.map"
   },
   "entrypoints": [
-    "static/css/main.353267c6.css",
-    "static/js/main.bfde0c3b.js"
+    "static/css/main.40b58000.css",
+    "static/js/main.3019792a.js"
   ]
 }
